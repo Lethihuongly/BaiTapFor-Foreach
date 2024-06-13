@@ -1,0 +1,14 @@
+C:\Users\laptop\source\repos\Bai3.6\bin\Debug\net8.0\Bai3.6.exe
+C:\Users\laptop\source\repos\Bai3.6\bin\Debug\net8.0\Bai3.6.deps.json
+C:\Users\laptop\source\repos\Bai3.6\bin\Debug\net8.0\Bai3.6.runtimeconfig.json
+C:\Users\laptop\source\repos\Bai3.6\bin\Debug\net8.0\Bai3.6.dll
+C:\Users\laptop\source\repos\Bai3.6\bin\Debug\net8.0\Bai3.6.pdb
+C:\Users\laptop\source\repos\Bai3.6\obj\Debug\net8.0\Bai3.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laptop\source\repos\Bai3.6\obj\Debug\net8.0\Bai3.6.AssemblyInfoInputs.cache
+C:\Users\laptop\source\repos\Bai3.6\obj\Debug\net8.0\Bai3.6.AssemblyInfo.cs
+C:\Users\laptop\source\repos\Bai3.6\obj\Debug\net8.0\Bai3.6.csproj.CoreCompileInputs.cache
+C:\Users\laptop\source\repos\Bai3.6\obj\Debug\net8.0\Bai3.6.dll
+C:\Users\laptop\source\repos\Bai3.6\obj\Debug\net8.0\refint\Bai3.6.dll
+C:\Users\laptop\source\repos\Bai3.6\obj\Debug\net8.0\Bai3.6.pdb
+C:\Users\laptop\source\repos\Bai3.6\obj\Debug\net8.0\Bai3.6.genruntimeconfig.cache
+C:\Users\laptop\source\repos\Bai3.6\obj\Debug\net8.0\ref\Bai3.6.dll

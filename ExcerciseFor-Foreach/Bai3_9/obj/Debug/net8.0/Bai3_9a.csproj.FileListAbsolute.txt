@@ -1,0 +1,14 @@
+C:\Users\laptop\source\repos\Bai3_9a\bin\Debug\net8.0\Bai3_9a.exe
+C:\Users\laptop\source\repos\Bai3_9a\bin\Debug\net8.0\Bai3_9a.deps.json
+C:\Users\laptop\source\repos\Bai3_9a\bin\Debug\net8.0\Bai3_9a.runtimeconfig.json
+C:\Users\laptop\source\repos\Bai3_9a\bin\Debug\net8.0\Bai3_9a.dll
+C:\Users\laptop\source\repos\Bai3_9a\bin\Debug\net8.0\Bai3_9a.pdb
+C:\Users\laptop\source\repos\Bai3_9a\obj\Debug\net8.0\Bai3_9a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laptop\source\repos\Bai3_9a\obj\Debug\net8.0\Bai3_9a.AssemblyInfoInputs.cache
+C:\Users\laptop\source\repos\Bai3_9a\obj\Debug\net8.0\Bai3_9a.AssemblyInfo.cs
+C:\Users\laptop\source\repos\Bai3_9a\obj\Debug\net8.0\Bai3_9a.csproj.CoreCompileInputs.cache
+C:\Users\laptop\source\repos\Bai3_9a\obj\Debug\net8.0\Bai3_9a.dll
+C:\Users\laptop\source\repos\Bai3_9a\obj\Debug\net8.0\refint\Bai3_9a.dll
+C:\Users\laptop\source\repos\Bai3_9a\obj\Debug\net8.0\Bai3_9a.pdb
+C:\Users\laptop\source\repos\Bai3_9a\obj\Debug\net8.0\Bai3_9a.genruntimeconfig.cache
+C:\Users\laptop\source\repos\Bai3_9a\obj\Debug\net8.0\ref\Bai3_9a.dll

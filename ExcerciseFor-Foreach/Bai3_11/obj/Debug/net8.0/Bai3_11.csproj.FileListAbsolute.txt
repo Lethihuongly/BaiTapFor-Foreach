@@ -1,0 +1,14 @@
+C:\Users\laptop\source\repos\Bai3_11\bin\Debug\net8.0\Bai3_11.exe
+C:\Users\laptop\source\repos\Bai3_11\bin\Debug\net8.0\Bai3_11.deps.json
+C:\Users\laptop\source\repos\Bai3_11\bin\Debug\net8.0\Bai3_11.runtimeconfig.json
+C:\Users\laptop\source\repos\Bai3_11\bin\Debug\net8.0\Bai3_11.dll
+C:\Users\laptop\source\repos\Bai3_11\bin\Debug\net8.0\Bai3_11.pdb
+C:\Users\laptop\source\repos\Bai3_11\obj\Debug\net8.0\Bai3_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laptop\source\repos\Bai3_11\obj\Debug\net8.0\Bai3_11.AssemblyInfoInputs.cache
+C:\Users\laptop\source\repos\Bai3_11\obj\Debug\net8.0\Bai3_11.AssemblyInfo.cs
+C:\Users\laptop\source\repos\Bai3_11\obj\Debug\net8.0\Bai3_11.csproj.CoreCompileInputs.cache
+C:\Users\laptop\source\repos\Bai3_11\obj\Debug\net8.0\Bai3_11.dll
+C:\Users\laptop\source\repos\Bai3_11\obj\Debug\net8.0\refint\Bai3_11.dll
+C:\Users\laptop\source\repos\Bai3_11\obj\Debug\net8.0\Bai3_11.pdb
+C:\Users\laptop\source\repos\Bai3_11\obj\Debug\net8.0\Bai3_11.genruntimeconfig.cache
+C:\Users\laptop\source\repos\Bai3_11\obj\Debug\net8.0\ref\Bai3_11.dll
